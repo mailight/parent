@@ -1,0 +1,10 @@
+{
+    "name": "mailight/parent",
+    "authors": [
+        {
+            "name": "Light",
+            "email": "mailight.git@gmail.com"
+        }
+    ],
+    "require": {}
+}
